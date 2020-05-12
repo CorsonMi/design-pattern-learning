@@ -13,7 +13,7 @@ package com.corson.learning.pattern.template;
  * @version v1.0.0
  * @Date 2020-05-07
  */
-public abstract class CaffeineBeverage {
+public abstract class CaffeineBeverageTemplate {
     /**
      * 冲泡方法
      */

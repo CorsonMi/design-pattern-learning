@@ -8,7 +8,7 @@ package com.corson.learning.pattern.template;
  * @version v1.0.0
  * @Date 2020-05-07
  */
-public class Coffee extends CaffeineBeverage {
+public class Coffee extends CaffeineBeverageTemplate {
     @Override
     void brew() {
         System.out.println("Dripping Coffee through filter");
