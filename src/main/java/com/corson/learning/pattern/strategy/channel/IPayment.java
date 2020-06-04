@@ -13,7 +13,18 @@ import java.math.BigDecimal;
  */
 public interface IPayment {
 
+    /**
+     * 类型
+     *
+     * @return
+     */
     PayEnum type();
 
+    /**
+     * 支付
+     *
+     * @param amount
+     * @return
+     */
     Result pay(BigDecimal amount);
 }
