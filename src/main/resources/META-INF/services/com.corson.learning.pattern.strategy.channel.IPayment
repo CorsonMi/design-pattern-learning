@@ -1,0 +1,3 @@
+com.corson.learning.pattern.strategy.channel.Alipayment
+com.corson.learning.pattern.strategy.channel.UnionPayment
+com.corson.learning.pattern.strategy.channel.WechatPayment
